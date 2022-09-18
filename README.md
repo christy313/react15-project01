@@ -5,6 +5,8 @@ Let's start with basic state and do a clear all click with birthday card today!
 - `useState()` to render all people in the list.
 - A click button to clear all
 
+[Live Demo](https://christy313.github.io/react15-project01/)
+
 ![](./image/react01-birthday-today.gif)
 
 ## File structure
